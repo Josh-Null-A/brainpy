@@ -11,7 +11,7 @@ When giving input, only one character or sequence of numbers are allowed just li
 I plan to make a compiler version some time in the future.
 
 # How to use
-As long as you are in the same path as brain.py or you added brainpy to your global path, you can simply type in a terminal
+As long as you are in the same path as brain.py or you added brainpy to your global path, you can simply type (as an example, in windows) in a terminal
 ```
   C:\Users\user\desktop>brain.py <brainf**k file path>
 ```
