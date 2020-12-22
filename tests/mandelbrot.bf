@@ -1,5 +1,5 @@
-A mandelbrot set fractal viewer in brainf*** written by Erik Bosman
-     http://esoteric DOT sange DOT fi/brainfuck/utils/mandelbrot/
+# A mandelbrot set fractal viewer in brainf*** written by Erik Bosman
+#     http://esoteric DOT sange DOT fi/brainfuck/utils/mandelbrot/
 +++++++++++++[->++>>>+++++>++>+<<<<<<]>>>>>++++++>--->>>>>>>>>>+++++++++++++++[[
 >>>>>>>>>]+[<<<<<<<<<]>>>>>>>>>-]+[>>>>>>>>[-]>]<<<<<<<<<[<<<<<<<<<]>>>>>>>>[-]+
 <<<<<<<+++++[-[->>>>>>>>>+<<<<<<<<<]>>>>>>>>>]>>>>>>>+>>>>>>>>>>>>>>>>>>>>>>>>>>
